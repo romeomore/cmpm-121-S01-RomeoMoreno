@@ -1,2 +1,2 @@
-I made the increment counter work by chaning main.ts
+I made the increment counter work by changing main.ts
 
